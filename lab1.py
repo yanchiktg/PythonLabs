@@ -4,7 +4,3 @@ while True:
     break
 V = pow(A, 3)
 print("Volume = ", V)
-
-
-
-  
